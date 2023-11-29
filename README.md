@@ -26,3 +26,6 @@ Resultados:
 ## Requisitos del Sistema:
 - Compilador de C++.
 - Sistema operativo compatible con la compilación y ejecución de programas C++.
+
+
+(also no supe como cambiar el nombre, sorry)
