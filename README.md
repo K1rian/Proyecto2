@@ -20,7 +20,7 @@ Resultados:
 
 ## Notas importantes:
 - El programa generará automáticamente un general para tu ejército.
-- La cantidad total de unidades no puede superar el límite máximo establecido (20 unidades en total).
+- La cantidad total de unidades no puede superar el límite máximo establecido (20 unidades en total) si te excedes, solo imprimira 20.
 - Se utilizarán nombres y atributos aleatorios para las unidades (vida y experiencia).
 
 ## Requisitos del Sistema:
